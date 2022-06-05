@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/misc/static/css/main.be65abbe.chunk.css",
+    "main.js": "/misc/static/js/main.762c3314.chunk.js",
+    "main.js.map": "/misc/static/js/main.762c3314.chunk.js.map",
+    "runtime-main.js": "/misc/static/js/runtime-main.0df721cc.js",
+    "runtime-main.js.map": "/misc/static/js/runtime-main.0df721cc.js.map",
+    "static/css/2.970d3e08.chunk.css": "/misc/static/css/2.970d3e08.chunk.css",
+    "static/js/2.84d3ef52.chunk.js": "/misc/static/js/2.84d3ef52.chunk.js",
+    "static/js/2.84d3ef52.chunk.js.map": "/misc/static/js/2.84d3ef52.chunk.js.map",
+    "static/js/3.3c310547.chunk.js": "/misc/static/js/3.3c310547.chunk.js",
+    "static/js/3.3c310547.chunk.js.map": "/misc/static/js/3.3c310547.chunk.js.map",
+    "index.html": "/misc/index.html",
+    "static/css/2.970d3e08.chunk.css.map": "/misc/static/css/2.970d3e08.chunk.css.map",
+    "static/css/main.be65abbe.chunk.css.map": "/misc/static/css/main.be65abbe.chunk.css.map",
+    "static/js/2.84d3ef52.chunk.js.LICENSE.txt": "/misc/static/js/2.84d3ef52.chunk.js.LICENSE.txt",
+    "static/media/blueprint-icons.css": "/misc/static/media/icons-20.cde033c5.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0df721cc.js",
+    "static/css/2.970d3e08.chunk.css",
+    "static/js/2.84d3ef52.chunk.js",
+    "static/css/main.be65abbe.chunk.css",
+    "static/js/main.762c3314.chunk.js"
+  ]
+}
